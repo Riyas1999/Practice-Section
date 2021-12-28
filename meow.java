@@ -18,17 +18,7 @@ public class meow {
 
         //boolean bool = true; // true/false conditional statements
         //System.out.println(bool); 
-        //int counter = 0;
-        //while ( counter < 5)
-        {
-            //System.out.println( counter);
-            //counter++;
-        }
-        //System.out.println("Done! meow");
-        //for ( int i = 0; i <= 5; i++)
-        {
-            //System.out.println(i);
-        }
+        
        
         
 
